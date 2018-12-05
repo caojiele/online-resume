@@ -5,8 +5,8 @@
 ##### 才怪！我对自己写的简历模板有信心，放这个出来就是要比比看。比比看性价比，我们这个模版的价格是 0，分母是 0 就意味着性价比无穷大！写这个模版的初衷是希望同一份简历既能做页面展示，也能直接打印出来给我到处投。（请认真对待每一份简历，不要学习笔者）。写这份模版也是站在巨人的肩膀上，参考了前人经验的。感谢以下先辈：
 * [一看 star 数就知道一定是最牛的简历](https://github.com/DIYgod/Resume)
 * [freepik 上的好看简历](https://www.freepik.com/free-psd/editable-cv-format-download_716578.htm)
-![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
 ##### 我们可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。
+![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
 #### 什么是 Github Pages？
 ##### Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为了用户能够直接通过 Github 仓库来托管用户个人、组织或是项目的专属页面。参考：https://help.github.com/articles/what-is-github-pages/
 ##### 可以说相当于一个可直接用 git 管理内容的静态服务器，有许多人会用它来托管自己的个人博客（利用 Jekyll、Pelican 这一类静态页面生成工具）或是在这上面发布自己的 HTML5 小游戏。当然这么好的东西也是有限制的。
