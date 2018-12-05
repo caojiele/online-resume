@@ -3,9 +3,9 @@
 ## **1、背景**
 ##### 每年的金三银四都是人员流动最大，找工作最好的时间段之一。而找工作就不得不需要更新简历，想到自己也会有这么一天，那么就来一起好好写一份简历吧。期间在网上找了不少写简历的资源，比如[轻单-在线简历制作](https://qdan.me/list/VUR-PAX01x8Skk0F)收录了一些在线生成简历的网站，有需要的童鞋可以直接拿走，不用再看这节课啦。
 ##### 才怪！我对自己写的简历模板有信心，放这个出来就是要比比看。比比看性价比，我们这个模版的价格是 0，分母是 0 就意味着性价比无穷大！写这个模版的初衷是希望同一份简历既能做页面展示，也能直接打印出来给我到处投。（请认真对待每一份简历，不要学习笔者）。写这份模版也是站在巨人的肩膀上，参考了前人经验的。感谢以下先辈：
-![首页](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
 * [一看 star 数就知道一定是最牛的简历](https://github.com/DIYgod/Resume)
 * [freepik 上的好看简历](https://www.freepik.com/free-psd/editable-cv-format-download_716578.htm)
+![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
 ##### 我们可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。
 #### 什么是 Github Pages？
 ##### Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为了用户能够直接通过 Github 仓库来托管用户个人、组织或是项目的专属页面。参考：https://help.github.com/articles/what-is-github-pages/
