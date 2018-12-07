@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://raw.githubusercontent.com/caojiele/resume/master/index_files/avator.png');
+    background-image:url('https://raw.githubusercontent.com/caojiele/resume/master/static/image/avator.png');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
