@@ -25,9 +25,9 @@
 ##### 适合对于简历有要求的童鞋，本项目可以完美的让你对简历进行管理
 ## **5、最终效果**
 #### 简历页面展示： 
-![简历页面展示](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show1.png) 
+![简历页面展示](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show3.png) 
 #### 保存后的 pdf 版本：
-![保存后的 pdf 版本](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show2.png) 
+![保存后的 pdf 版本](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
 #### 网页链接：[小码哥简历主页](https://caojiele.github.io/resume/)
 ## **6、总结**
 ##### 本课程主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 Customizing GitHub Pages 中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
