@@ -32,7 +32,7 @@
 ![Mark简历生成器操作图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure1.gif)
 #### 网页链接：[小码哥简历主页](https://caojiele.github.io/resume/)
 ## **6、总结**
-##### 本课程主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 Customizing GitHub Pages 中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
+##### 本课程主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/) Pages 中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
 ## **7、关于作者**
 #### 微信公众号：
 ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
