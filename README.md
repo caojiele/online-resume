@@ -18,7 +18,7 @@
 ## **2、预备知识**
 #### 本项目需要的预备知识：
 ##### git 的基本使用
-##### 如果对 git 完全陌生，推荐学习实验楼的[《Git 实战教程》](https://www.shiyanlou.com/courses/4)，仅需了解最基本的操作即可。
+##### 如果对 git 完全陌生，推荐学习[《Git 实战教程》](https://www.shiyanlou.com/courses/4)，仅需了解最基本的操作即可。
 ## **3、项目知识点**
 ##### 本项目完成过程中，我们将学习：在 Github Pages 上部署自己的简历
 ## **4、适合人群**
@@ -32,7 +32,7 @@
 ![Mark简历生成器操作图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
 #### 网页链接：[小码哥简历主页](https://caojiele.github.io/resume/)
 ## **6、总结**
-##### 本课程主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
+##### 本项目主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
 ## **7、关于作者**
 #### 微信公众号：
 ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
