@@ -44,3 +44,4 @@
 * [一看 star 数就知道一定是最牛的简历](https://github.com/DIYgod/Resume)
 * [freepik 上的好看简历](https://www.freepik.com/free-psd/editable-cv-format-download_716578.htm)
 * [如何在Github Pages上生成部署简历](https://www.jianshu.com/p/d95443bfdf75)
+* [写简历注意事项](https://note.youdao.com/share/?id=a097d9dedfc367e44e8a5840bc250a96&type=note#/)
