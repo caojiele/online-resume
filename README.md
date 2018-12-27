@@ -7,10 +7,10 @@
 * [freepik 上的好看简历](https://www.freepik.com/free-psd/editable-cv-format-download_716578.htm)
 <br>我们可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。
 ![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
-什么是 Github Pages？
+**什么是 Github Pages？**<br>
 Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为了用户能够直接通过 Github 仓库来托管用户个人、组织或是项目的专属页面。参考：https://help.github.com/articles/what-is-github-pages/
 可以说相当于一个可直接用 git 管理内容的静态服务器，有许多人会用它来托管自己的个人博客（利用 Jekyll、Pelican 这一类静态页面生成工具）或是在这上面发布自己的 HTML5 小游戏。当然这么好的东西也是有限制的。
-Github Pages 的限制：
+<br>**Github Pages 的限制：**
 * #### 仓库存储的所有文件不能超过 1 GB
 * #### 页面的带宽限制是低于每月 100 GB 或是每月 100,000 次请求。
 * #### 每小时最多只能部署 10 个静态网站。
