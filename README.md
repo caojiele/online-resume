@@ -11,10 +11,10 @@
 Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为了用户能够直接通过 Github 仓库来托管用户个人、组织或是项目的专属页面。参考：https://help.github.com/articles/what-is-github-pages/
 可以说相当于一个可直接用 git 管理内容的静态服务器，有许多人会用它来托管自己的个人博客（利用 Jekyll、Pelican 这一类静态页面生成工具）或是在这上面发布自己的 HTML5 小游戏。当然这么好的东西也是有限制的。
 Github Pages 的限制：
-* ##### 仓库存储的所有文件不能超过 1 GB
-* ##### 页面的带宽限制是低于每月 100 GB 或是每月 100,000 次请求。
-* ##### 每小时最多只能部署 10 个静态网站。
-* ##### 对于发布自己的简历或是部署自己的博客的这一类需求我想是不用担心这些限制的，如果真的不小心超了，Github 那边不会采取什么强制措施，而是会发一份邮件提醒你应该找一个更适合你的托管对象的服务。
+* ### 仓库存储的所有文件不能超过 1 GB
+* ### 页面的带宽限制是低于每月 100 GB 或是每月 100,000 次请求。
+* ### 每小时最多只能部署 10 个静态网站。
+* ### 对于发布自己的简历或是部署自己的博客的这一类需求我想是不用担心这些限制的，如果真的不小心超了，Github 那边不会采取什么强制措施，而是会发一份邮件提醒你应该找一个更适合你的托管对象的服务。
 ## **2、预备知识**
 本项目需要的预备知识：git 的基本使用
 如果对 git 完全陌生，推荐学习[《Git 实战教程》](https://www.shiyanlou.com/courses/4)，仅需了解最基本的操作即可。
@@ -29,7 +29,7 @@ Github Pages 的限制：
 <br>![保存后的 pdf 版本](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
 Mark简历生成器操作图：
 <br>![Mark简历生成器操作图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
-网页链接：[Mark简历模板主页](http://www.caojiele.com/resume/)
+<br>网页链接：[Mark简历模板主页](http://www.caojiele.com/resume/)
 ## **6、总结**
 本项目主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
 ## **7、关于作者**
