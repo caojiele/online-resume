@@ -34,10 +34,17 @@
 ## **6、总结**
 ##### 本项目主要是给没有接触过 Github Pages 的童鞋演示一遍它的基本使用，关于其它主题如自定义域名，自定义 404 页面等可在 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)中找到参考。这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
 ## **7、关于作者**
-#### 微信公众号：
-![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
-#### SF：[segmentfault](https://segmentfault.com/u/xiaomage_5c10d17d26987)
-#### 简书：[简书个人主页](https://www.jianshu.com/u/faa01fa59ea3)
+- 简书
+    - [「小码哥个人主页」](https://www.jianshu.com/u/faa01fa59ea3)
+
+- 知乎
+    - [「小码哥个人主页」](https://www.zhihu.com/people/wang-le-6-62/activities)
+
+- segmentfault
+    - [「小码哥个人主页」](https://segmentfault.com/u/xiaomage_5c10d17d26987)
+    
+- 微信公众号
+    ![「微信公众号」](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
 ## **7、参考资料**
 * [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/)
 * [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
