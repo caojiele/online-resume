@@ -74,7 +74,8 @@ Java 攻城狮，Apache Dubbo Committer、Alibaba、Apache等开源组织贡献�
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-- 微信公众号    
+微信公众号:
+
  ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
  
 ## **8、参考资料**
