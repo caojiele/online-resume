@@ -6,7 +6,7 @@ Project deployment process first start initialization Git repository, edit your 
 
 ## **Background**
 
-Yue four each year are mobility, the biggest one of the best time to look for a job.And looking for a job have to need to update your resume, think of oneself also can have such a day, then come together to write a resume.On the Internet to find a lot of writing a resume during the period of resources, for example[qdan](https://qdan.me/list/VUR-PAX01x8Skk0F)Includes some generated resumes online website, children's shoes in need can be directly take, don't have to see this article.
+Yue four each year are mobility, the biggest one of the best time to look for a job.And looking for a job have to need to update your resume, think of oneself also can have such a day, then come together to write a resume.On the Internet to find a lot of writing a resume during the period of resources, for example [qdan](https://qdan.me/list/VUR-PAX01x8Skk0F) Includes some generated resumes online website, children's shoes in need can be directly take, don't have to see this article.
 
 How is it possible!I have confidence in writing your own resume template, put this out is to shop keepers.Bibi cost performance, we the price of this template is 0, the denominator is 0 means that the ratio of infinity!Write the template can do is to hope that the same resume page display, also can print it out to me directly for everywhere.(please seriously treat each a resume, don't study the author).This template is standing on the shoulders of giants, reference of the predecessors' experience.Thank you for the following predecessors:
 
