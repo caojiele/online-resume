@@ -68,7 +68,7 @@ Hey, I'm Jack Cao, Java engineer, as a member in Apache Dubbo Committer, such as
 
 home：https://caojiele.com
 
-jinshu：https://www.jianshu.com/u/faa01fa59ea3
+jianshu：https://www.jianshu.com/u/faa01fa59ea3
 
 zhihu：https://www.zhihu.com/people/wang-le-6-62/activities
 
