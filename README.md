@@ -64,7 +64,7 @@ This project is mainly to have no contact with dead simple Pages for a demonstra
 
 ## **About**
 
-Hey, I'm Jack Cao, Java engineer, as a member in Apache Dubbo Committer, such as the Apache & Alibaba open source contributor, found in all the year round lot, Github, Gitee, zhihu, jianshu. At present is mainly responsible for group APP back-end development and maintenance, micro services infrastructure, infrastructure construction, Had the opportunity with Alibaba Health & PICC participate in large-scale project development; and my first [studio](https://caojiele.com/cooperation/) was founded in 2017, solve all kinds of company 「incurable diseases」, to achieve the demand of 「imagination」.Have been torn between the demand and development of struggle, as in a line of powerhouse, is still in development.
+Hey, I'm Jack Cao, Java engineer, such as the Apache & Alibaba open source contributor, found in all the year round lot, Github, Gitee, zhihu, jianshu. At present is mainly responsible for group App backend development and maintenance, micro services infrastructure, infrastructure construction, Had the opportunity with Alibaba Health & PICC participate in large-scale project development; and my first [studio](https://caojiele.com/cooperation/) was founded in 2017, solve all kinds of company 「incurable diseases」, to achieve the demand of 「imagination」.Have been torn between the demand and development of struggle, as in a line of powerhouse, is still in development.
 
 home：https://caojiele.com
 
@@ -76,10 +76,14 @@ imooc：https://www.imooc.com/u/4024769/articles
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-Wechat:
+Wechat: xiaomage_freestyle
 
  ![Wechat](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
  
+More details, please scan qrcode：
+  
+  ![qrcode](https://cdn.nlark.com/yuque/0/2019/png/338441/1562683998026-42937005-a1e6-43cb-b51e-6aacf2952a56.png) 
+  
 ## **Resources**
 
 * [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/)
