@@ -64,7 +64,7 @@ Mark简历生成器操作图：
 
 ## **7、关于我**
 
-Java 攻城狮，Apache Dubbo Committer、Alibaba、Apache等开源组织贡献者之一，常年出没于 Github、Gitee、知乎、简书 等地带。目前主要负责集团APP后端开发以及维护、微服务技术实施、基础设施构建等工作，有幸参与过阿里健康、平安万家医疗等公司大型项目开发；17年有了自己的第一个工作室，解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
+Hey，我是小码哥，Java 攻城狮，Apache、Alibaba等开源组织贡献者之一，常年出没于 Github、Gitee、知乎、简书 等地带。目前主要负责集团App后端开发以及维护、微服务技术实施、基础设施构建等工作，有幸参与过阿里健康、平安万家医疗等公司大型项目开发；17年有了自己的第一个[工作室](https://caojiele.com/cooperation/)，解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
 
 个人主页：https://caojiele.com
 
@@ -74,8 +74,13 @@ Java 攻城狮，Apache Dubbo Committer、Alibaba、Apache等开源组织贡献�
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-微信公众号：    
-![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+微信公众号：xiaomage_freestyle    
+
+  ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+
+更多详情，请扫二维码：
+
+  ![qrcode](https://cdn.nlark.com/yuque/0/2019/png/338441/1562683998026-42937005-a1e6-43cb-b51e-6aacf2952a56.png)
  
 ## **8、参考资料**
 
