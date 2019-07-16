@@ -15,7 +15,7 @@
 
 我们可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。
 
-![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
+![背景图](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288299459-d2416856-ef5f-4c15-a2a6-041ae4f3f6ca.png)
 
 **什么是 Github Pages？**
 
@@ -46,11 +46,11 @@ Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为�
 
 简历页面展示： 
 
-![简历页面展示](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show3.png) 
+![简历页面展示](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288435058-5e6b931a-5ddf-4f8f-97b8-fdf1030ee04b.png) 
 
 保存后的 pdf 版本：
 
-![保存后的 pdf 版本](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
+![保存后的 pdf 版本](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288446983-260d6296-7fb9-4e94-982a-b2e0c9ac6775.png) 
 
 Mark简历生成器操作图：
 
