@@ -15,7 +15,7 @@ How is it possible!I have confidence in writing your own resume template, put th
 
 We can take advantage of making Github page hosting service Github Pages display Pages to help us to do.
 
-![background](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
+![background](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288299459-d2416856-ef5f-4c15-a2a6-041ae4f3f6ca.png)
 
 **What is Github Pages？**
 
@@ -46,11 +46,11 @@ Request to resume with a suitable for developers, this project can be perfect fo
 
 Resume pages： 
 
-![Resume pages](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show3.png) 
+![Resume pages](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288435058-5e6b931a-5ddf-4f8f-97b8-fdf1030ee04b.png) 
 
 Save the PDF version：
 
-![Save the PDF version](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
+![Save the PDF version](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288446983-260d6296-7fb9-4e94-982a-b2e0c9ac6775.png) 
 
 Mark-Online-Resume：
 
@@ -78,7 +78,7 @@ segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
 Wechat: xiaomage_freestyle
 
- ![Wechat](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+  ![Wechat](https://cdn.nlark.com/yuque/0/2019/jpeg/338441/1562681958344-f9b0d53f-2be5-42d0-bdb6-b043d04fd856.jpeg)
  
 More details, please scan qrcode：
   
