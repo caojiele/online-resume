@@ -1,4 +1,4 @@
-# 简历生成器
+# 在线简历生成器
 
 ### [英文文档](README.md)
 
@@ -56,7 +56,7 @@ Mark简历生成器操作图：
 
 ![Mark简历生成器操作图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
 
-网页链接：[Mark简历模板主页](https://www.caojiele.com/resume/)
+网页链接：[Mark简历模板主页](https://caojiele.com/online-resume/)
 
 ## **6、总结**
 
