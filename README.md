@@ -1,4 +1,4 @@
-# Online-Resume
+# Online Resume
 
 ### [中文文档](README_zh.md)
 
@@ -56,7 +56,7 @@ Mark-Online-Resume：
 
 ![Mark-Online-Resume](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
 
-Web link：[Mark-Online-Resume](https://www.caojiele.com/resume/)
+Web link：[Mark-Online-Resume](https://caojiele.com/online-resume/)
 
 ## **Conclusion**
 
