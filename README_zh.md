@@ -74,9 +74,9 @@ Hey，我是小码哥，Java 攻城狮，Apache、Alibaba等开源组织贡献�
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-微信公众号：xiaomage_freestyle    
+微信公众号：iamtianxuan   
 
-  ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+  ![微信公众号](https://cdn.nlark.com/yuque/0/2019/jpeg/338441/1564802304985-6a45f687-8685-4426-998b-96a5f032f2c9.jpeg)
 
 更多详情，请扫二维码：
 
