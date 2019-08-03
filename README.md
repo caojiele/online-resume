@@ -76,9 +76,9 @@ imooc：https://www.imooc.com/u/4024769/articles
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-Wechat: xiaomage_freestyle
+Wechat: iamtianxuan
 
-  ![Wechat](https://cdn.nlark.com/yuque/0/2019/jpeg/338441/1562681958344-f9b0d53f-2be5-42d0-bdb6-b043d04fd856.jpeg)
+  ![Wechat](https://cdn.nlark.com/yuque/0/2019/jpeg/338441/1564802304985-6a45f687-8685-4426-998b-96a5f032f2c9.jpeg)
  
 More details, please scan qrcode：
   
